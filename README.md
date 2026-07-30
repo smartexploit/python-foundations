@@ -1,4 +1,9 @@
-# 🐍 Python Foundations
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Build Status](https://img.shields.io/badge/tests-passing-brightgreen.svg)
+
+# 🐍 Python Foundations & OOP Portfolio
+
 
 Welcome to my Python learning repository! This project serves as a step-by-step record of my journey mastering Python fundamentals—from basic CLI tools to data structures and modular programming.
 
@@ -19,8 +24,6 @@ python-foundations/
 ├── 04_functions_modules/ # Reusable code, standard library modules
 └── README.md
 
-
-# 🐍 Python Foundations & OOP Portfolio
 
 A curated collection of 6 hands-on Python projects demonstrating core data structures, object-oriented programming (OOP) principles, algorithmic thinking, and clean code practices.
 
